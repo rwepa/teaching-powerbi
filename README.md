@@ -2,9 +2,7 @@
 
 提供 Microsoft Power BI 免費視覺化軟體教學
 
-課程: 115-1-人工智慧實務應用
-
-大綱:
+## 大綱:
 
 1. 人工智慧實務應用與大數據簡介
 2. 資料分析架構、APC方法與應用
@@ -27,7 +25,7 @@
 8. DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
 9. CALCULATE 函數應用
 
-Power BI 五大模組:
+## Power BI 五大模組:
 
 (1) Report view 	: 報表檢視 - 提供資料視覺化【Power Viewer】
 
