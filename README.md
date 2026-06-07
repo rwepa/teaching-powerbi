@@ -16,7 +16,11 @@
 
 Power BI 五大模組:
 (1) Report view 	: 報表檢視 - 提供資料視覺化, Power Viewer
+
 (2) Table view 		: 資料表檢視 - 提供數據工程與資料處理, Power Query
+
 (3) Model view 	    : 模型檢視 - 提供關聯式模型, Power Pivot
+
 (4) DAX query view 	: DAX 查詢檢視 - 檢視及使用資料分析表示式查詢
+
 (5) TMDL view       : 表格式模型定義語言 (Tabular Model Definition Language)
