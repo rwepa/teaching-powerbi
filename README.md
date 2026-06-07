@@ -1,3 +1,22 @@
 # teaching-Power BI
 
 提供 Microsoft Power BI 免費視覺化軟體教學
+
+課程: 115-1-人工智慧實務應用
+
+大綱:
+
+1. 人工智慧實務應用與大數據簡介
+2. 資料分析架構、APC方法與應用
+3. 資料視覺化簡介
+4. Power BI 簡介、五大模組簡介、下載與安裝
+5. Power Query 簡介
+6. Power Query 數據工程
+7. Power View 視覺化
+
+Power BI 五大模組:
+(1) Report view 	: 報表檢視 - 提供資料視覺化, Power Viewer
+(2) Table view 		: 資料表檢視 - 提供數據工程與資料處理, Power Query
+(3) Model view 	    : 模型檢視 - 提供關聯式模型, Power Pivot
+(4) DAX query view 	: DAX 查詢檢視 - 檢視及使用資料分析表示式查詢
+(5) TMDL view       : 表格式模型定義語言 (Tabular Model Definition Language)
