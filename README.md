@@ -4,11 +4,16 @@
 
 ## 大綱:
 
-1. 人工智慧實務應用與大數據簡介
-2. 資料分析架構與APC方法
-3. 資料視覺化簡介
-4. Power BI 簡介、五大模組簡介、下載與安裝
-5. Power View 視覺化
++ 第1章 人工智慧實務應用與大數據簡介
+PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter1_Introduction_to_Practical_AI_Applications_and_BigData.pdf
+
++ 第2章 資料分析架構與APC方法
+
++ 第3章 資料視覺化簡介
+
++ 第4章 Power BI 簡介、五大模組簡介、下載與安裝
+
++ 第5章 Power View 視覺化
 
 + 直條圖
 + 交叉分析篩選器
@@ -20,10 +25,13 @@
 + 樹狀圖
 + 地圖
 
-6. Power Query 簡介與數據工程
-7. Power Pivot 關聯式模型
-8. DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
-9. CALCULATE 函數應用
++ 第6章 Power Query 簡介與數據工程
+
++ 第7章 Power Pivot 關聯式模型
+
++ 第8章 DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
+
++ 第9章 CALCULATE 函數應用
 
 ## Power BI 五大模組:
 
