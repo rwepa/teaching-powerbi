@@ -5,6 +5,7 @@
 ## 大綱:
 
 + 第1章 人工智慧實務應用與大數據簡介
+
 PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter1_Introduction_to_Practical_AI_Applications_and_BigData.pdf
 
 + 第2章 資料分析架構與APC方法
