@@ -10,6 +10,8 @@
 
 + 第2章 資料分析架構與APC方法
 
+  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter2_apc_method.pdf
+
 + 第3章 資料視覺化簡介
 
 + 第4章 Power BI 簡介、五大模組簡介、下載與安裝
