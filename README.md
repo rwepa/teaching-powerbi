@@ -14,6 +14,8 @@
 
 + 第3章 資料視覺化簡介
 
+  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter3_data_visualization.pdf
+
 + 第4章 Power BI 簡介、五大模組簡介、下載與安裝
 
 + 第5章 Power View 視覺化
