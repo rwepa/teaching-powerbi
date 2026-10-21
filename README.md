@@ -42,12 +42,11 @@
   + 樹狀圖
   + 地圖
 
-+ 第6章 Power Query 簡介與數據工程
++ Power Query 簡介與數據工程
 
-+ 第7章 Power Pivot 關聯式模型
++ Power Pivot 關聯式模型
 
-+ 第8章 DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
++ DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
 
-+ 第9章 CALCULATE 函數應用
-
++ CALCULATE 函數應用
 
