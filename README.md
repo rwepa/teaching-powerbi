@@ -4,21 +4,23 @@
 
 ## 大綱:
 
-+ 第1章 人工智慧實務應用與大數據簡介
+## 第1章 人工智慧實務應用與大數據簡介
 
   PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter1_Introduction_to_Practical_AI_Applications_and_BigData.pdf
 
-+ 第2章 資料分析架構與APC方法
+## 第2章 資料分析架構與APC方法
 
   PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter2_apc_method.pdf
 
-+ 第3章 資料視覺化簡介
+## 第3章 資料視覺化簡介
 
   PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter3_data_visualization.pdf
 
-+ 第4章 Power BI 簡介、五大模組簡介、下載與安裝
+## 第4章 Power BI 簡介、五大模組簡介、下載與安裝
 
-## Power BI 五大模組:
+  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter4_introduction_to_power_bi.pdf
+
+### Power BI 五大模組:
 
 (1) Report view 	: 報表檢視 - 提供資料視覺化【Power Viewer】
 
@@ -30,7 +32,7 @@
 
 (5) TMDL view       : 表格式模型定義語言 (Tabular Model Definition Language)
 
-## Power View 視覺化
+### Power View 視覺化
 
   + 直條圖
   + 交叉分析篩選器
@@ -42,11 +44,11 @@
   + 樹狀圖
   + 地圖
 
-+ Power Query 簡介與數據工程
+## 第5章 Power Query 簡介與數據工程
 
-+ Power Pivot 關聯式模型
+## 第6章 Power Pivot 關聯式模型
 
-+ DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
+## 第7章 DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
 
-+ CALCULATE 函數應用
+## 第8章 CALCULATE 函數應用
 
