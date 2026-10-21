@@ -2,8 +2,6 @@
 
 提供 Microsoft Power BI 免費視覺化軟體教學
 
-## 大綱:
-
 ## 第1章 人工智慧實務應用與大數據簡介
 
   PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter1_Introduction_to_Practical_AI_Applications_and_BigData.pdf
