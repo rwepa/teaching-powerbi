@@ -42,6 +42,8 @@
   + 樹狀圖
   + 地圖
 
+  ### Power BI_銷售報表
+
 ## 第5章 Power Query 簡介與數據工程
 
 ## 第6章 Power Pivot 關聯式模型
