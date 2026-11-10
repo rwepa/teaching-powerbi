@@ -42,13 +42,13 @@
   + 樹狀圖
   + 地圖
 
-## 交叉分析篩選器
+## 第5章 交叉分析篩選器 (Slicer)
 
-## 第5章 Power Query 簡介與數據工程
+## 第6章 Power Query 簡介與數據工程
 
-## 第6章 Power Pivot 關聯式模型
+## 第7章 Power Pivot 關聯式模型
 
-## 第7章 DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
+## 第8章 DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
 
-## 第8章 CALCULATE 函數應用
+## 第9章 CALCULATE 函數應用
 
