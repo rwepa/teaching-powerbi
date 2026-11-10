@@ -44,6 +44,10 @@
 
 ## 第5章 交叉分析篩選器 (Slicer)
 
+  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter5_slicer.pdf
+
+  pbix: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter5_slicer.pbix
+
 ## 第6章 Power Query 簡介與數據工程
 
 ## 第7章 Power Pivot 關聯式模型
