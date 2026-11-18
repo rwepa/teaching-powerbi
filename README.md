@@ -4,19 +4,19 @@
 
 ## 第1章 人工智慧實務應用與大數據簡介
 
-  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter1_Introduction_to_Practical_AI_Applications_and_BigData.pdf
+  + PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter1_Introduction_to_Practical_AI_Applications_and_BigData.pdf
 
 ## 第2章 資料分析架構與APC方法
 
-  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter2_apc_method.pdf
+  + PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter2_apc_method.pdf
 
 ## 第3章 資料視覺化簡介
 
-  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter3_data_visualization.pdf
+  + PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter3_data_visualization.pdf
 
 ## 第4章 Power BI 簡介、五大模組簡介、下載與安裝
 
-  PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter4_introduction_to_power_bi.pdf
+  + PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter4_introduction_to_power_bi.pdf
 
 ### Power BI 五大模組:
 
