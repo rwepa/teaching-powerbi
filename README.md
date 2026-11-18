@@ -50,7 +50,7 @@
 
 ## 第6章 Power Query 簡介與數據工程
 
-  + PDF: 
+  + PDF: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter6_query.pdf
 
   + pbix: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter6_query.pbix
 
