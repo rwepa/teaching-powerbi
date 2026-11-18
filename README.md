@@ -56,7 +56,7 @@
 
   + csv: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter6_query_financials.csv
 
-  + csv: 
+  + csv: https://github.com/rwepa/teaching-powerbi/blob/main/小明花店近三年訂單資料_2000筆-刪除頂端列.csv
 
 ## 第7章 Power Pivot 關聯式模型
 
