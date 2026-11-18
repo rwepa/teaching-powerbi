@@ -56,6 +56,8 @@
 
   + csv: https://github.com/rwepa/teaching-powerbi/blob/main/Chapter6_query_financials.csv
 
+  + csv: 
+
 ## 第7章 Power Pivot 關聯式模型
 
 ## 第8章 DAX (Data Analysis Expressions) 語言應用: 包括IF()、COUNTROWS()、FILTER()、CALCULATE()函數
